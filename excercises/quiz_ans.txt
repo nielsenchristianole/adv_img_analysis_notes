@@ -1,0 +1,4 @@
+image_convolution: 42
+boundary_length: 9153
+curve_smoothing: 80
+display_name: ChristianOle
